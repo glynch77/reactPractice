@@ -3,7 +3,7 @@ import React from 'react';
 const Projects = () => {
   const projectList = [
     { title: "Project 1", description: "Business Web Page Lawn Services", link: "https://xyzlawn.netlify.app/landingpage.html" },
-    { title: "Project 2", description: "Description of Project 2", link: "#" },
+    { title: "Project 2", description: "The second project is my Portfolio", link: "#" },
   ];
 
   return (
