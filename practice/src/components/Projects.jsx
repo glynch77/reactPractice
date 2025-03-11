@@ -4,7 +4,8 @@ const Projects = () => {
   const projectList = [
     { title: "Project 1", description: "Business Web Page Lawn Services", link: "https://xyzlawn.netlify.app/landingpage.html" },
     { title: "Project 2", description: "The second project is my Portfolio", link: "https://workwithgeorge.netlify.app/" },
-    { title: "Project 3", description: "Business Web Page HSW Fence", link: "https://hswfencellc.com/" },
+    { title: "Project 3", description: "Fencing Web Page HSW Fence", link: "https://hswfencellc.com/" },
+    { title: "Project 4", description: "Fitness Web Page Unstoppable you Fitness", link: "https://unstoppableyoufitness.netlify.app/" },
   ];
 
   return (
