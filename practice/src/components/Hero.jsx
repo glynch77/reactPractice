@@ -3,7 +3,7 @@ import heroImage from '../assets/images/heroImage2.jpg';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 import { faFileAlt } from '@fortawesome/free-solid-svg-icons';
-import resumePDF from '../assets/Resume/Resume copy.pdf';
+import resumePDF from '../assets/Resume/Resume (2) copy.pdf';
 
 const Hero = () => {
   return (

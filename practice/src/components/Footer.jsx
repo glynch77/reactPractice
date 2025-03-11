@@ -1,5 +1,5 @@
 import React from 'react';
-import resumePDF from '../assets/Resume/Resume copy.pdf';
+import resumePDF from '../assets/Resume/Resume (2) copy.pdf';
 
 
 const Footer = () => {
